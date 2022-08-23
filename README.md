@@ -31,4 +31,4 @@ We can see the results of the generalization presented in figure 5.
 
 ## MLP_Number_Classifier.m & MLP_Number_Classifier_Camera.m
 
-This project has been made to classify numbers from 0 to 9 with an image taken with the web camera or any other picture taken before. The first file contains the training of the ANN, after, I create a file with the training data (data_Net_40000.mat). Afterwards, the file is loaded in the second algorithm. There, the web camera in use will be on. Now, we are going to be able to see the results showing a paper sheet with a number from 0 to 9 in front of the camera. The answer will be displayed in the console.
+This project has been made to classify numbers from 0 to 9 with a real time video with the webcam in use or any other picture taken before. The first file contains the training of the ANN, after, I created a file with the training data (data_Net_40000.mat). Afterwards, the file is loaded in the second algorithm. There, the webcam will be on. Now, we are going to be able to see the results showing a paper sheet with a number from 0 to 9 in front of the camera. The answer will be displayed in the console.
